@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Industrial Engineering (major) and AI & ML (minor) Student from Turkey.</h3>
 
-- 🌱 I’m currently learning **Java (for Apache Stack), Scala, PySpark and DRF**
+- 🌱 I’m currently learning **Java (for Apache Stack), Scala, PySpark**
 
 - 📫 How to reach me **ed.erendarici@gmail.com**
 
