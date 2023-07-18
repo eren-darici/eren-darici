@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **selam@merhabaerenben.com**
 
-- 📄 Know about my experiences [merhabaerenben.com](https://www.merhabaerenben.com)
+- 📄 Know about my experiences [merhabaerenben.com](http://www.merhabaerenben.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
