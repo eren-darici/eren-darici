@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">Industrial Engineer from Turkey, interested in all topics about data.</h3>
+<h3 align="center">Industrial Engineer & M.Sc. Student based in Kalamazoo, MI, interested in all topics about data.</h3>
 
 - 📫 How to reach me **selam@merhabaerenben.com**
 
