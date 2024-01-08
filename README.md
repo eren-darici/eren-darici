@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <h3 align="center">Industrial Engineer & M.Sc. Student based in Kalamazoo, MI, interested in all topics about data.</h3>
 
-- 📫 How to reach me **hi@merhabaerenben.com**
-
-- 📄 Know about my experiences [merhabaerenben.com](http://www.merhabaerenben.com)
+- 📫 How to reach me **eren.darc@wmich.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
