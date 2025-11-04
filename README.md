@@ -6,7 +6,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-Profile-green)](https://orcid.org/0009-0000-3608-5550)
 
 ## About Me
-I'm an Industrial Engineer pursuing my Master's degree at Western Michigan University, conducting research in Operations Research. My focus lies at the intersection of optimization and machine learning, where I work on transforming complex data into actionable insights for real-world industrial problems.
+I'm an Industrial Engineer pursuing my Ph.D. at Western Michigan University, conducting research in Operations Research. My focus lies at the intersection of optimization and machine learning, where I work on transforming complex data into actionable insights for real-world industrial problems.
 
 
 ## 💻 Technical Skills
